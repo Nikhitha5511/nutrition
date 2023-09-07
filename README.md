@@ -38,3 +38,6 @@
 * .dbl-indent:Styles elements with the class "dbl-indent" to add even more left margin space (2em) for a double-indented effect.
 * .daily-value p:no-divider:Targets p elements within elements with the class "daily-value" that do not have the class "no-divider" and adds a bottom border to separate them.
 * .note :Styles elements with the class "note" to set the font size to 10 pixels.
+
+  # Hosted Link
+  https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-1?authuser=0
